@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Partho</h1>
 <h3 align="center">A Passionate Frontend Developer, Crafting user experiences with pixel-perfect precision.</h3>
 
-<img align="center" height="250" width="500" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" /><br> 
+<img align="center" height="100%" width="100%" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" /><br> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthoroy77&label=Profile%20views&color=0e75b6&style=flat" alt="parthoroy77" /> </p>
 
