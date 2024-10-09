@@ -1,21 +1,24 @@
-<h1 align="center">Hey! I'm Partho</h1>
-<h3 align="center">A Passionate Frontend Developer, Crafting user experiences with pixel-perfect precision.</h3>
+# Partho Roy
 
-<img align="center" height="100%" width="100%" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" /><br> 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparthoroy77%2Fparthoroy77&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/parthoroy_dev)](https://twitter.com/parthoroy_dev)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parthoroy772/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthoroy77&label=Profile%20views&color=0e75b6&style=flat" alt="parthoroy77" /> </p>
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:parthoroy117@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=parthoroy.dev)](parthoroy.dev)
+[![Github](https://img.shields.io/github/followers/parthoroy77?label=Follow&style=social)](https://github.com/parthoroy77)
 
-- 🌱 I’m currently learning **Node, MongoDB**
+- 💻 Full stack developer. 
+- 🤔 Currently emphasizing my devops skills and building real life projects.
+- 📫 How to reach me: parthoroy117@gmail.com
 
-- 💬 Ask me about **React JS**
 
-- 📫 How to reach me **parthoroy117@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### ⚙️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=flat-square&logo=Typescript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=Next.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=Node.js&color=353535) ![Bootstrap](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=Express&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-Prisma-05122A?style=flat-square&logo=Prisma&color=353535) ![Bootstrap](https://img.shields.io/badge/-Sequelize-05122A?style=flat-square&logo=Sequelize&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthoroy77&show_icons=true&locale=en&layout=compact" alt="parthoroy77" /></p>
+<div>
+  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=parthoroy77&" alt="parthoroy77" />
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthoroy77&show_icons=true&locale=en&layout=compact" alt="parthoroy77" />
+</div>
