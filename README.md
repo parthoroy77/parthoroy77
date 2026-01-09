@@ -1,17 +1,8 @@
 # Partho Roy
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparthoroy77%2Fparthoroy77&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/parthoroy_dev)](https://twitter.com/parthoroy_dev)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parthoroy772/)
-
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:parthoroy117@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=parthoroy.dev)](parthoroy.dev)
-[![Github](https://img.shields.io/github/followers/parthoroy77?label=Follow&style=social)](https://github.com/parthoroy77)
-
-- 💻 Full stack developer. 
-- 🤔 Currently emphasizing my devops skills and building real life projects.
+- 💻 Full Stack Developer. 
+- 🤔 Currently emphasizing my DevOps skills and building real-life projects.
 - 📫 How to reach me: parthoroy117@gmail.com
-
 
 
 ### ⚙️ Tech Stack
